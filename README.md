@@ -1,6 +1,6 @@
 # Aerospace Group Design Project
 
-Group 14, Aerospace Group Design Project (UFMFUU-15-3), UWE Bristol (2023). A team of 9 took an aircraft from requirements through conceptual design: sizing, aerodynamics, structures, propulsion, stability and control, systems and cost.
+Group 14, Aerospace Group Design Project (UFMFUU-15-3), UWE Bristol (2023). A team of 10 took an aircraft from requirements through conceptual design: sizing, aerodynamics, structures, propulsion, stability and control, systems and cost.
 
 ## Files
 | File | Description |
