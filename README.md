@@ -24,9 +24,5 @@ Group 14, Aerospace Group Design Project (UFMFUU-15-3), UWE Bristol (2023). A te
 | Harry Mance | Structures |
 | Chun Liu | [add role] |
 
-[Check which of the MATLAB scripts and the tail study were your own work]
-
-> **Contributions:** written as a first pass. Edit this section to reflect exactly who did what.
-
 ## Tools
 MATLAB, conceptual aircraft design methods
